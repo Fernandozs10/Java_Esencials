@@ -1,0 +1,1 @@
+En este repositorio se encuentra todo el avance que hice en Java hace un tiempo, tiene conceptos desde lo mas basico de Java hasta temas complejos para el desarrollo de aplicaciones, tambien estan algunas aplicaciones donde se aplican los conceptos que aprendidos.
